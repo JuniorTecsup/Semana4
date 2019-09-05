@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora_Vilchez</string>
+    <string-array name="Formas_p">
+        <item >A: 20% T + 80% L</item>
+        <item >A: 30% T + 70% L</item>
+        <item >A: 40% T + 60% L</item>
+    </string-array>
+</resources>
